@@ -8,6 +8,6 @@ public static void main(String[] args) {
 	System.out.println("please enter another number...:");
 	int num2=scan.nextInt();
 	int sum=num1+num2;
-	System.out.println("Addition of two  umber is...:"+sum);
+	System.out.println("Addition of two  number is...:"+sum);
 }
 }
