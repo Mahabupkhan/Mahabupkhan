@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Prog2{
+class Prog2{//Duplicate Removal
 public static void main(String[] args){
 	Scanner scan=new Scanner(System.in);
 	System.out.println("Enter size of the array : ");
